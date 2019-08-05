@@ -1,0 +1,16 @@
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\Patterns.exe.config
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\Patterns.exe
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\Patterns.pdb
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\obj\Debug\Patterns.exe
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\obj\Debug\Patterns.pdb
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\AbstractFactory.dll
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\AbstractFactory.pdb
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\Builder.dll
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\Builder.pdb
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\FactoryMethod.dll
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\FactoryMethod.pdb
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\Prototype.dll
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\ConsoleApp\bin\Debug\Prototype.pdb

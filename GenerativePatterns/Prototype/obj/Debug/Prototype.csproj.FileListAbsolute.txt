@@ -1,0 +1,6 @@
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\GenerativePatterns\Prototype\bin\Debug\Prototype.dll
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\GenerativePatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\GenerativePatterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\GenerativePatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\GenerativePatterns\Prototype\obj\Debug\Prototype.dll
+C:\Users\Kirill Suhorukih\Desktop\Education\PatternsStudying\GenerativePatterns\Prototype\obj\Debug\Prototype.pdb
